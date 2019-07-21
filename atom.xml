@@ -6,11 +6,11 @@
   <link href="/zhangjingzhi272823.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhangjingzhi272823.github.io/"/>
-  <updated>2019-07-20T08:22:28.443Z</updated>
+  <updated>2019-07-21T09:28:11.053Z</updated>
   <id>https://zhangjingzhi272823.github.io/</id>
   
   <author>
-    <name>songyixue</name>
+    <name>&lt;center&gt;桃花依旧绿春风&lt;/center&gt;</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://zhangjingzhi272823.github.io/2019/07/17/ff/"/>
     <id>https://zhangjingzhi272823.github.io/2019/07/17/ff/</id>
     <published>2019-07-17T07:40:45.000Z</published>
-    <updated>2019-07-20T08:22:28.443Z</updated>
+    <updated>2019-07-21T09:28:11.053Z</updated>
     
     <content type="html"><![CDATA[<ul><li><strong>背景</strong> 周帝白炎死在称帝十载后的一个雪夜。这个草莽出身的皇帝不喜奢华，逼宫夺位后便废弃了前朝敬帝所建的华美宫室，而每夜宿在帝宫内的九龙塔，死时亦盘膝在塔顶石室几案前的蒲团上，正对着壁上一幅画像。倘有历过前朝的宫女在，定会认出，那画上艳色无双的女子，正是前朝敬帝所封的最后一位贵妃。原来在倾国的十年之后，白炎终究追随那人而去。他身后并未留下只言片语。于是所有关于周朝开国皇帝的谜团，都与那悬于九重宝塔之上、隐在七重纱幕背后的画像，一并被掩埋进厚重的史书里。</li><li><strong>歌词</strong></li></ul><center><font color="red"><p>血染江山的画</p><p>怎敌你眉间 一点朱砂</p><p>覆了天下也罢</p><p>始终不过 一场繁华</p><p>碧血染就桃花</p><p>只想再见 你泪如雨下</p><p>听刀剑喑哑</p><p>高楼奄奄一息 倾塌<br></p></font></center><p></p><p><img src="https://img2.woyaogexing.com/2019/07/12/36ddb0390d4f4da68370af9a01250410!600x600.gif" alt="gg"></p>]]></content>
     
@@ -47,7 +47,7 @@
     <link href="https://zhangjingzhi272823.github.io/2019/07/17/hello-world/"/>
     <id>https://zhangjingzhi272823.github.io/2019/07/17/hello-world/</id>
     <published>2019-07-17T07:40:45.000Z</published>
-    <updated>2019-07-19T14:48:01.966Z</updated>
+    <updated>2019-07-21T09:28:18.253Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -63,7 +63,11 @@
       <category term="率性而为" scheme="https://zhangjingzhi272823.github.io/categories/%E7%8E%87%E6%80%A7%E8%80%8C%E4%B8%BA/"/>
     
     
-      <category term="随笔，吐槽" scheme="https://zhangjingzhi272823.github.io/tags/%E9%9A%8F%E7%AC%94%EF%BC%8C%E5%90%90%E6%A7%BD/"/>
+      <category term="program" scheme="https://zhangjingzhi272823.github.io/tags/program/"/>
+    
+      <category term="diary" scheme="https://zhangjingzhi272823.github.io/tags/diary/"/>
+    
+      <category term="web" scheme="https://zhangjingzhi272823.github.io/tags/web/"/>
     
   </entry>
   
